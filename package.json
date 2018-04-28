@@ -1,0 +1,19 @@
+{
+  "name": "awstestproject",
+  "version": "1.0.0",
+  "description": "Just a Test for AWS Code Deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbreeding/awsTestProject.git"
+  },
+  "author": "Tim Breeding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbreeding/awsTestProject/issues"
+  },
+  "homepage": "https://github.com/tbreeding/awsTestProject#readme"
+}
